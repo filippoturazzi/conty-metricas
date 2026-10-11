@@ -236,3 +236,7 @@ O código, os testes e este README foram escritos com o Claude (Anthropic), a pa
 O que eu revisei:
 
 - _(preencha com o que você conferiu: por exemplo, li cada arquivo de `src/`, rodei `npm test`, testei o fluxo com os `curl` acima e conferi a regra de idempotência e o tratamento de 429 contra o enunciado)._
+
+
+## IA
+- A IA me ajudou analisando o problema e sugerindo uma solução em código, implementei o código sugerido por ela, revisando parte por parte, e testando tudo, confirmando que tudo funcionou como esperado e de acordo com o que foi solicitado, revisei as rotas, os erros, os status, rodei os testes etc.
